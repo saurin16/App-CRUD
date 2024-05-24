@@ -6,7 +6,7 @@
  **Read**: View a list of all products with their details.
  **Update**: Modify existing product details.
  **Delete**: Remove products from the database.
-
+![Laravel Architecture](image.png)
 # Requirements
 
 - PHP (>= 7.3)
