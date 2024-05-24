@@ -1,8 +1,5 @@
 # Laravel CRUD Application for Products
 
-```markdown
-This is a simple CRUD (Create, Read, Update, Delete) application built using the Laravel framework. It allows users to manage products by performing CRUD operations.
-
 # Features
 
  **Create**: Add new products with name, quantity, price, and description.
