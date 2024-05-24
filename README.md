@@ -3,14 +3,14 @@
 ```markdown
 This is a simple CRUD (Create, Read, Update, Delete) application built using the Laravel framework. It allows users to manage products by performing CRUD operations.
 
-## Features
+# Features
 
-- **Create**: Add new products with name, quantity, price, and description.
-- **Read**: View a list of all products with their details.
-- **Update**: Modify existing product details.
-- **Delete**: Remove products from the database.
+ **Create**: Add new products with name, quantity, price, and description.
+ **Read**: View a list of all products with their details.
+ **Update**: Modify existing product details.
+ **Delete**: Remove products from the database.
 
-## Requirements
+# Requirements
 
 - PHP (>= 7.3)
 - Composer
